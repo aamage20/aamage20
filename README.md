@@ -9,7 +9,7 @@
 ## Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-amage-48920132b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaamage______87/)
+
 </details>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
