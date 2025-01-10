@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aditya Amage
 - 👀 I’m interested in Cloud Computing | DevOps
-- 🌱 I’m currently learning DevOps
 - 📫 How to reach me adityaamage5055@gmail.com
 
   # $${\color{green} \textbf{Who \ Am \ I?}}$$
